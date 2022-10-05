@@ -30,8 +30,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/imleviofc' //Instagram mu
-global.sgh = 'https://github.com/ImleviBotzz' //Github mu
-global.sgc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6' //Group WhatsApp mu
+global.sgh = 'https://github.com/mytobot' //Github mu
+global.sgc = 'https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz' //Group WhatsApp mu
 global.sdc = '----' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
@@ -46,8 +46,8 @@ global.psaweria = 'Unavailable' //Saweria
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6281255466600' //Nomor Bot mu
 global.nomorown = '6285172446692' //Nomormu
-global.namebot = '𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉-𝙼𝙳' //Nama bot mu
-global.nameown = 'Levi Xhiao' //Nama mu
+global.namebot = 'BOT-MD' //Nama bot mu
+global.nameown = 'Levi' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
@@ -55,7 +55,7 @@ global.owner = [
   ['6285172446692'], //Owner1
   ['6285172446692'], //Owner2
   ['6285172446692'], //Owner3
-  ['6285172446692', '𝙻𝙴𝚅𝙸 𝚇𝙷𝙸𝙰𝙾 ! 🔥', true] //Ini buat kamu!
+  ['6285172446692', '𝙻𝙴𝚅𝙸 𝙶𝙰𝙽𝚉 ! 🔥', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,13 +104,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 ≪•◦𝙳𝚁𝙰𝙶𝙾𝙽 ❈ 𝙱𝙾𝚃𝚉◦•≫ 」' //Wm
-global.wm2 = '┏━°⌜ 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉-𝙼𝙳 ⌟°━┓' //Name Wm
-global.wm3 = '⫹⫺ 𝘿𝙍𝘼𝙂𝙊𝙉 𝘽𝙊𝙏'
+global.wm = '                「 ≪•◦𝙻𝙴𝚅𝙸 ❈ 𝙶𝙰𝙽𝚉◦•≫ 」' //Wm
+global.wm2 = '┏━°⌜ 𝙻𝙴𝚅𝙸 - 𝙶𝙰𝙽𝚉 ⌟°━┓' //Name Wm
+global.wm3 = '⫹⫺ 𝙇𝙀𝙑𝙄 𝙂𝘼𝙉𝙕'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = 'IG:@_imleviofc' //Ganti serah lu
-global.author = '                𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉-𝙼𝙳' //Wm author
+global.author = '                𝙻𝙴𝚅𝙸 - 𝙶𝙰𝙽𝚉' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -165,7 +165,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = '*IG : imleviofc*'
-global.stickauth = `© 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉-𝙼𝙳\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickauth = `© 𝙻𝙴𝚅𝙸 𝙶𝙰𝙽𝚉\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
