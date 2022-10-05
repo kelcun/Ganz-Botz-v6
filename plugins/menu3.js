@@ -11,7 +11,7 @@ import fetch from 'node-fetch'
 
 const defaultMenu = {
   before: `
-··────━•〔 xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐ 〕•━────··
+··────━•〔 𝙻𝙴𝚅𝙸 𝙶𝙰𝙽𝚉 〕•━────··
 
  *〔 llı INFO USER ıll 〕*
  
@@ -233,11 +233,11 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ${htka}`,
 	rows: [
-	    {title: `┊📛┊Info Bot`, rowId: ".info", description: "✧ Info xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐"},
+	    {title: `┊📛┊Info Bot`, rowId: ".info", description: "✧ Info 𝙻𝙴𝚅𝙸 𝙶𝙰𝙽𝚉"},
 	    {title: `┊💌┊Owner`, rowId: ".owner", description: "✧ Ini Room Developer❗"},
 	{title: `┊🗣┊Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
 	{title: ` ┊📊┊Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
-	{title: `┊⚡┊Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 Sullivan - BOT..."},
+	{title: `┊⚡┊Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 𝙻𝙴𝚅𝙸 - 𝙶𝙰𝙽𝚉..."},
 	]
     },{
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
@@ -252,7 +252,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	},{
 	title: `${htki} ▮𝗠𝗲𝗻𝘂 ${htka}`,
 	rows: [
-	    {title: `┊🗒️┊ › 〚 All Menu 〛-𐑂`, rowId: ".? all", description: "╰► Bjir ALL In"},
+	    {title: `┊🗒️┊ › 〚 All Menu 〛-𐑂`, rowId: ".? all", description: "╰► Waduh Langsung Semua >.<"},
 	    {title: `┊🌱┊ › 〚 Rpg 〛-𐑂`, rowId: ".? rpg", description: "╰► Calon anak petualang nih..."},
 	{title: `┊✨┊ › 〚 Exp 〛-𐑂`, rowId: ".? xp", description: "╰► Kalau dah level 100 dapat hadiah"},
 	{title: `┊🎮┊ › 〚 Game 〛-𐑂`, rowId: ".? game", description: "╰► Bg kamu main game apa?.... >-<"},
@@ -274,7 +274,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	{title: `┊🗃️️┊ › 〚 Database 〛-𐑂`, rowId: ".? database", description: "╰► Simpen apa tuh...."},
 	{title: `┊🧰️┊ › 〚 Tools 〛-𐑂`, rowId: ".? tools", description: "╰► Butuh apa aja bot akan bantu"},
 	{title: `️️┊📊️┊ › 〚 Info 〛-𐑂`, rowId: ".? info", description: "╰► Info lowker kak?..."},
-	{title: `┊👩‍💻┊ › 〚 Owner 〛-𐑂`, rowId: ".? owner", description: "╰► Khusus VINZ❗"},
+	{title: `┊👩‍💻┊ › 〚 Owner 〛-𐑂`, rowId: ".? owner", description: "╰► Khusus Levi❗"},
 	{title: `┊🎨┊ › 〚 Maker 〛-𐑂`, rowId: ".? maker", description: "╰► Bikin logo apa ya enaknya?"},
 	{title: `┊💌┊ › 〚 Store 〛-𐑂`, rowId: ".? store", description: "╰► Anak jebeh ya kamu kak?"},
 	{title: `┊🔥┊ › 〚 Virtex 〛-𐑂`, rowId: ".? virus", description: "╰► Jangan kak bahaya 🗿"},
@@ -321,7 +321,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: 'xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐',
+  footer: '𝙻𝙴𝚅𝙸 𝙶𝙰𝙽𝚉',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `Click Here ❗`,
@@ -529,12 +529,12 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By Vinz TEAM',
+            footer: titlebot + '\n⚡ Supported By Levi TEAM',
             templateButtons: [
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://github.com/ShionMDv'
+                        url: 'https://github.com/ImleviOfc'
                     }
                 },
                 {
