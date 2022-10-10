@@ -4,7 +4,7 @@ export async function all(m) {
 	if (new Date() * 1 - setting.status > 1000) {
 		let _uptime = process.uptime() * 1000
 		let uptime = clockString(_uptime);
-		let wm = 'levi ganz🗿👍'
+		let wm = 'Levi-Mods-Ganz'
 		let bio = `👾Aktif selama ${uptime} | Mode: ${global.opts['self'] ? 'Private' : setting.self ? 'Private' : global.opts['gconly'] ? 'Hanya Grup' : 'Publik'} | 🌸 Sc By ${wm}`
 
 		await this.setBio(bio).catch(_ => _)
