@@ -17,7 +17,7 @@ ${htjava} *Title:* ${title}
 
 🔗 *Url:* ${url}
 📔 *Description:* ${description}
-  `.trim(), wm, thumbnail, url, '📣 GO TO YOUTUBE', null, null, [
+ // `.trim(), wm, thumbnail, url, '', null, null, [
     ['🎶 Audio', `${usedPrefix}yta ${url} yes`],
     ['🎥 Video', `${usedPrefix}ytv ${url} yes`],
     ['🔎 Youtube Search', `${usedPrefix}yts ${url}`]
