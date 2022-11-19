@@ -36,26 +36,26 @@ global.sdc = '----' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '085172446692' //Dana
-global.povo = '085172446692' //Ovo
-global.pgopay = '----' //Gopay
-global.ppulsa = '085172446692' //Pulsa 
-global.ppulsa2 = '085172446692' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '08386090126' //Dana
+global.povo = '08386090126' //Ovo
+global.pgopay = '08386090126' //Gopay
+global.ppulsa = '08386090126' //Pulsa 
+global.ppulsa2 = '08386090126' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'Unavailable' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6281255466600' //Nomor Bot mu
-global.nomorown = '6285172446692' //Nomormu
-global.namebot = 'BOT-MD' //Nama bot mu
-global.nameown = 'Levi' //Nama mu
+global.nomorbot = '628386090126' //Nomor Bot mu
+global.nomorown = '628386090126' //Nomormu
+global.namebot = 'VIN-MD' //Nama bot mu
+global.nameown = 'KELVIN' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285172446692'], //Owner1
-  ['6285172446692'], //Owner2
-  ['6285172446692'], //Owner3
-  ['6285172446692', '𝙻𝙴𝚅𝙸 𝙶𝙰𝙽𝚉 ! 🔥', true] //Ini buat kamu!
+  ['628386090126'], //Owner1
+  ['628386090126'], //Owner2
+  ['628386090126'], //Owner3
+  ['628386090126', 'kelvin 𝙶𝙰𝙽𝚉 ! 🔥', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
